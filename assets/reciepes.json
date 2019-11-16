@@ -1,0 +1,60 @@
+[
+    {
+    "name": "Köttfärssås med Spaghetti",
+    "tags": ["Köttfärs", "Spaghetti", "Snabbt"],
+    "ingredients": [{"ingredient": "Nötfärs", "amount": "500 g"}, {"ingredient": "Gul Lök", "amount": "1 st"},
+        {"ingredient": "Vitlöksklyfta", "amount": "2 st"}, {"ingredient": "Morot", "amount": "2 st"},
+        {"ingredient": "Matolja", "amount": "2 msk"}, {"ingredient": "Tomatpuré", "amount": "1/2 dl"},
+        {"ingredient": "Krossade Tomater", "amount": "500 g"}, {"ingredient": "Hönsbuljong", "amount": "2 dl"},
+        {"ingredient": "Kinesisk Olja", "amount": "2 msk"}, {"ingredient": "Salt & Svartpeppar", "amount": ""},
+        {"ingredient": "Spaghetti", "amount": ""}],
+    "description": ["Bryn köttfärsen och grönsakerna i oljan, tillsätt tomatpuré och bryn med den ett tag",
+        "Tillsätt krossade tomater, hönsbuljong och soja, koka sakta 15 minuter, smaksätt med salt och peppar",
+        "Koka spagetti enligt anvisningen på förpackningen"],
+    "key": "0"
+    },
+    {
+    "name": "Kladdkaka",
+    "tags": ["Choklad", "Söt", "Efterrätt"],
+    "ingredients": [{"ingredient": "Smör", "amount": "100 g"},{"ingredient": "Strösocker", "amount": "2 1/2 dl"},
+        {"ingredient": "Ägg", "amount": "2 st"}, {"ingredient": "Vetemjöl", "amount": "1 dl"}, {"ingredient": "Kakao", "amount": "3 msk"},
+        {"ingredient": "Vaniljsocker", "amount": "1 tsk"}],
+    "description": ["Sätt ugnen på 175 grader", "Smält smöret i en kastrull. Lyft av kastrullen från plattan.",
+        "Rör ner socker och ägg, blanda väl. Rör ner övriga ingredienser så att allt blir väl blandat.",
+        "Häll smeten i en smord och bröad form med löstagbar kant, ca 24 cm i diameter",
+        "Grädda mitt i ugnen ca 15 min.",
+        "Låt kakan kallna. Pudra gärna kakan med florsocker. Servera gärna med grädde."],
+    "key": "1"
+    }, 
+    {
+    "name": "Tunnbrödssnittar",
+    "tags": ["Förrätt"],
+    "ingredients": [{"ingredient": "Tunnbröd", "amount": "4 st"},{"ingredient": "Färskost", "amount": "3/4 dl"},{"ingredient": "Wasabipasta", "amount": "1 tsk"},
+        {"ingredient": "Rökt Lax", "amount": "200 g"}, {"ingredient": "Gari", "amount": "2 msk"},
+        {"ingredient": "Babyspenat", "amount": "100 g"}, {"ingredient": "Sesamfrö", "amount": ""}],
+    "description": ["Blanda färskost och wasabipasta. Bred färskoströran på bröden", "Fördela lax, gari och spenat på bröden",
+        "Rulla ihop. Skär i önskad storlek och toppa med sesamfrön"],
+    "key": "2"
+    },
+    {
+    "name": "Vegetarisk Hamburgare",
+    "tags": ["Grillost", "Vegetariskt", "Grillning"],
+    "ingredients": [{"ingredient": "Grillost", "amount": "240 g"}, {"ingredient": "Zucchini", "amount": "1 st"},
+        {"ingredient": "Persika", "amount": "2 st"}, {"ingredient": "Smör-&rapsolja", "amount": "2 msk"},
+        {"ingredient": "Hamburgerbröd", "amount": "4 st"}, {"ingredient": "Créme fraiche", "amount": "2 dl"},
+        {"ingredient": "Krispsallad", "amount": "1 st"}],
+    "description": ["Skär ost och zucchini i skivor. Pensla ost, zucchini och persika med smör-&rapsolja. Grilla eller stek dem 3-4 min och vänd några gånger under tiden.",
+            "Dela bröden och stek eller grilla dem. Bred crème fraiche på snittytorna.", " Lägg ihop bröden med ost, zucchini, persika och sallad emellan."],
+    "key": "3"
+    },
+    {
+    "name": "Hummerfisk",
+    "tags": ["Fisk", "Lyxigt"],
+    "ingredients": [{"ingredient": "Torskrygg", "amount": "600 g"}, {"ingredient": "Citronpeppar", "amount": "1/2 tsk"},
+        {"ingredient": "Créme fraiche", "amount": "2 dl"}, {"ingredient": "Mjölk", "amount": "1/2 dl"},
+        {"ingredient": "Hummerfond", "amount": "1 1/2 msk"}, {"ingredient": "Örtkryddor", "amount": "1/2 dl"}],
+    "description": ["Skär fisken i bitar och krydda med citronpeppar.", "Vispa ihop crème fraiche, mjölk och hummerfond i en låg, vid panna.",
+        "Låt koka upp och lägg i fisken. Låt allt sjuda under lock 5-6 min. Strö över kryddorna."],
+    "key": "4"
+    }
+]
